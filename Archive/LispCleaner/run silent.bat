@@ -1,0 +1,1 @@
+LspCleaner.exe /auto
